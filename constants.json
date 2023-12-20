@@ -1,0 +1,8 @@
+{
+  "api_url": "https://api.discord.gx.games/v1/direct-fulfillment",
+  "content_type": "application/json",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0",
+  "rate_limited_message": "You are being rate-limited!",
+  "request_failed_message": "Request failed: ",
+  "generated_promo_link_message": "Generated Promo Link: "
+}

@@ -1,0 +1,5 @@
+*.txt
+.replit
+.pythonlibs/
+.upm/
+__pycache__/
